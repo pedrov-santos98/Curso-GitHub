@@ -1,2 +1,2 @@
-# Curso GIT
- Curso de Github
+# Curso GIT 
+ Aprenda a usar o GIT e GitHub de uma vez por todas!
